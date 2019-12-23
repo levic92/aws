@@ -59,7 +59,7 @@
     "@coderbyheart/bdd-feature-runner-aws": "^9.2.0",
     "@commitlint/cli": "^8.2.0",
     "@commitlint/config-angular": "^8.2.0",
-    "@types/aws-iot-device-sdk": "^2.2.0",
+    "@types/aws-iot-device-sdk": "2.2.0",
     "@types/aws-lambda": "^8.10.39",
     "@types/aws-sdk": "^2.7.0",
     "@types/backoff": "^2.5.1",
