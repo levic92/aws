@@ -43,7 +43,7 @@
     "uuid": "^7.0.1"
   },
   "devDependencies": {
-    "@aws-cdk/aws-apigatewayv2": "^1.26.0",
+    "@aws-cdk/aws-apigatewayv2": "^1.27.0",
     "@aws-cdk/aws-athena": "^1.26.0",
     "@aws-cdk/aws-cloudfront": "^1.26.0",
     "@aws-cdk/aws-codebuild": "^1.26.0",
