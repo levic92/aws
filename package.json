@@ -57,7 +57,7 @@
     "@aws-cdk/aws-ssm": "^1.27.0",
     "@aws-cdk/aws-stepfunctions": "^1.27.0",
     "@aws-cdk/aws-stepfunctions-tasks": "^1.27.0",
-    "@aws-cdk/core": "^1.26.0",
+    "@aws-cdk/core": "^1.27.0",
     "@bifravst/code-style": "^6.0.5",
     "@bifravst/package-layered-lambdas": "^3.0.5",
     "@coderbyheart/bdd-feature-runner-aws": "^10.0.0",
